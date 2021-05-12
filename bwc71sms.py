@@ -45,8 +45,8 @@ Admin - Bangladesh White Cyber 71
 
       
  #HEADER                
-text=cyan+"\t\tIf You Need any help so please select option 2 to"+green+" contact With Me.   \n" 
-notice="\t \t \t Bangladesh White Cyber 71 - We Fought For Bangladesh"     
+text=cyan+"If You Need any help so please select option 2 to"+green+" contact With Me.   \n" 
+notice=" Bangladesh White Cyber 71 - We Fought For Bangladesh"     
 def header():
 	print(logo)
 	print(text)
