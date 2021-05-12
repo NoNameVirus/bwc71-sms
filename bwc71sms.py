@@ -54,9 +54,9 @@ def header():
 	print(notice)
 #SELECT_MAIN
 def opt():
-	print(green+"\nThis tools only for education perpose only ")
+	print(green+"\n This tools only for education perpose only ")
 	print(cyan+"==> Select Your Option From Below\n")
-	print(yellow+"[1] Start BD SMS Bombing With BWC71 SMS\n\n")
+	print(yellow+"[1] Start BD SMS Bombing With BWC71 SMS\n\n [2] Contacts")
 	
 
 #MAIN_TOOL
