@@ -1,0 +1,3 @@
+a="contact"
+
+print(a)
